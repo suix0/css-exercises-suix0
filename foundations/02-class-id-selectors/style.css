@@ -1,0 +1,22 @@
+.class.one, 
+.class.two, 
+.class.three {
+  background-color: rgb(230, 104, 146);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id-one {
+  color: rgb(55, 0, 255);
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.class.two {
+  font-size: 24px;
+}
+
+#id-two {
+  background-color: rgb(132, 238, 155);
+  font-size: 28px;
+  font-weight: bolder;
+}

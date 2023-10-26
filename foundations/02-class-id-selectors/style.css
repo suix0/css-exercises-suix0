@@ -2,7 +2,7 @@
 .class.two, 
 .class.three {
   background-color: rgb(230, 104, 146);
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #id-one {
